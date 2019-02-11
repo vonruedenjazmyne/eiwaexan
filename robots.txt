@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aengeev.hanchenwang.com/sitemap.xml
